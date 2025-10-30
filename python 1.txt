@@ -1,0 +1,8 @@
+print("start")
+
+name=input("what is you are name?")
+print("Hellow", name)
+
+age=input("what is you are age?")
+print("You are age", age,"yours old")
+print("End")
