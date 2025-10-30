@@ -1,0 +1,9 @@
+print("Start")
+
+x= int(input("Enter a number:"))
+print(x+2)
+print(x*2)
+print(x/2)
+
+y = float(input("Enter a floatiing number:"))
+print(y/3)
