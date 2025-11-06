@@ -1,0 +1,12 @@
+ike={
+    "Brand":"Yamaha",
+    "model":"YZF-R1",
+    "Year":2025
+}
+print(Bike["Year"])
+car={
+    "Brand":"Ford",
+    "model":"Mustang",
+    "Year":1998
+}
+print(car["model"])
