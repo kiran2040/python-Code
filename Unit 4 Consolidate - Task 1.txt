@@ -1,12 +1,17 @@
-ike={
+
+Bike={
     "Brand":"Yamaha",
     "model":"YZF-R1",
     "Year":2025
 }
 print(Bike["Year"])
 car={
-    "Brand":"Ford",
-    "model":"Mustang",
-    "Year":1998
+    "Brand":"Mahendra",
+    "model":"Xuv700",
+    "Year":2025
 }
 print(car["model"])
+
+SudentName = ['Kiran', 'pooja', 'Sandeep']
+print(SudentName[0]) 
+print(SudentName[2]) 
